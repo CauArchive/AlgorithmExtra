@@ -12,7 +12,7 @@
 <h3>3. Images and corresponding probability that predicted Right</h3>
 <img width="374" alt="1_success" src="https://user-images.githubusercontent.com/24534071/121629116-82f64100-cab5-11eb-9a1d-f928f3d5266e.png"/>
 <h3>4. Images and corresponding probability that predicted Wrong</h3>
-<img width="539" alt="1_error" src="https://user-images.githubusercontent.com/24534071/121629152-930e2080-cab5-11eb-8e17-50d338d0598f.png"/>
+<img width="981" alt="1_error" src="https://user-images.githubusercontent.com/24534071/121630567-5859b780-cab8-11eb-977e-7691795994cf.png"/>
 <h3/>
 <h3/>
 <h1> MODEL 2: 5 Layers with 2 Convolution layer</h1>

@@ -1,6 +1,6 @@
 # Algorithm_02
 
-<h1> MODEL 1: 3 Layers with Convolution layer</h1>
+<h1> MODEL 1: 3 Layers with 1 Convolution layer</h1>
   <img width="750" alt="1_model" src="https://user-images.githubusercontent.com/24534071/121627051-9e5f4d00-cab1-11eb-839f-d8009390a90d.png"/>
 <h3>1.Training with Training loss</h3>
 <h3>Traning Step</h3>
